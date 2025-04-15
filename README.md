@@ -7,8 +7,8 @@ This project predicts whether a borrower will fully repay a loan using supervise
 The dataset contains information about individual loans and borrower attributes:
 
 | Field           | Description                                                                 |
-|----------------|-----------------------------------------------------------------------------|
-| Loan_status     | Whether a loan is paid off or in collection                                |
+|---------------- |-----------------------------------------------------------------------------|
+| Loan_status     | Whether a loan is paid off or in collection                                 |
 | Principal       | Basic principal loan amount                                                 |
 | Terms           | Origination terms: weekly, biweekly, or monthly payoff schedule             |
 | Effective_date  | The date when the loan was originated                                       |
